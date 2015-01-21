@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcwire"
+	"github.com/monetas/btcwire"
 )
 
 // TestFilterAddLatest tests the MsgFilterAdd API against the latest protocol

@@ -7,7 +7,7 @@ package btcwire_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcwire"
+	"github.com/monetas/btcwire"
 )
 
 // TestServiceFlagStringer tests the stringized output for service flag types.
